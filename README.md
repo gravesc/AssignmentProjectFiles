@@ -1,2 +1,2 @@
 # AssignmentProjectFiles
-All the Java code used to create the CLient and Staff Applications
+All the Java code used to create the Client and Staff Applications
